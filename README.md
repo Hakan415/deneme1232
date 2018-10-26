@@ -1,2 +1,1 @@
-# deneme1232
-Yok
+Ayn Yok
